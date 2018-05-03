@@ -24,6 +24,7 @@
     <module>simplexml</module>
     <module>scalars</module>
     <module>moshi</module>
+    <module>msgpack</module>
     <module>jaxb</module>
   </modules>
 </project>
